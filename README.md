@@ -1,4 +1,7 @@
-<body>
+
+<body style="background-color: #1e1e1e;
+    color: #d4d4d4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 <h1 align="center">Hi 👋, I'm Xevior</h1>
 <h3 align="center">Software Developer</h3>
 
